@@ -55,7 +55,7 @@ Currently at **Huzzle**, I manage end-to-end reporting across 5+ media channels 
 
 <p>
   <a href="mailto:inklingmansi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mansi-varshney"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mansi-varshney-246647207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
