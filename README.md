@@ -44,13 +44,6 @@ Currently at **Huzzle**, I manage end-to-end reporting across 5+ media channels 
 
 ---
 
-## 📌 Featured Project
-
-### 🛒 [Walmart Demand Forecasting](https://github.com/mansivarshney)
-> Analyzed **421K+ training records** across 46 stores to uncover weekly sales trends and seasonality patterns. Built a demand forecasting model using **Python & SQL**, enabling data-driven inventory decisions with **Matplotlib** dashboards.
-
----
-
 ## 📜 Certifications
 
 - 🏅 **Alteryx Designer Core**
