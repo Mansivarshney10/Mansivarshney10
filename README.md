@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst · ETL Automation · Dashboard Development</b><br/>
-  <sub>Delhi, India &nbsp;|&nbsp; inklingmansi@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mansi-varshney">LinkedIn</a></sub>
+  <sub>Delhi, India &nbsp;|&nbsp; inklingmansi@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mansi-varshney-246647207/">LinkedIn</a></sub>
 </p>
 
 ---
