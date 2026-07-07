@@ -9,9 +9,9 @@
 
 ## About Me
 
-I'm a Data Analyst with **2+ years of experience** turning raw data into reliable, actionable insights. I specialize in building ETL pipelines, automating reporting workflows, and crafting interactive dashboards that help stakeholders make faster, smarter decisions.
-
-Currently at **Huzzle**, I manage end-to-end reporting across 5+ media channels — reducing manual effort by 40% and consistently delivering on time.
+Data Analyst with 2+ years of experience automating ETL workflows, building Power BI dashboards, and delivering scalable
+reporting solutions across multiple media channels. Proficient in Python, SQL, Alteryx, and Power BI with a strong track
+record of improving reporting efficiency, enhancing data quality, and enabling data-driven business decisions.
 
 ---
 
